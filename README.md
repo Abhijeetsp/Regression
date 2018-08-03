@@ -9,5 +9,6 @@ them once they join the company. The best part is that our Mr. boss considers th
 would decide their salary and we wouldn't give him any ideas to consider other parameters like skills, projects developed and etc
 to avoid getting our simple problem fall in the complex one.<br><br>
 So the math is simple experience is directly proportional to the salary they are going to receive higher the experience higher the
-salary they will receive. We are going to build this model using the equation y = w*x+b, where x is the input to our single neuron
-and y is the output it would produce. That's the only thing we are going to require we don't need any activation function in this case.<br><br>
+salary they will receive. We are going to build this model using the equation y = w*x+b where x is the input to our single neuron
+and y is the output it would produce. That's the only thing we are going to require we don't need any activation function in this case.<br><br><br>
+![Linear Regression](Untitiled.png)
