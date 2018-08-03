@@ -12,3 +12,5 @@ So the math is simple experience is directly proportional to the salary they are
 salary they will receive. We are going to build this model using the equation y = w*x+b where x is the input to our single neuron
 and y is the output it would produce. That's the only thing we are going to require we don't need any activation function in this case.<br><br><br>
 ![Linear Regression](Untitled.png)
+
+This is how algorithm works it calculate the vertical distance from the point to the point created by the line and adjust the parameter slope and constant in such a way so that we can have the line which have this vertical distance least.
